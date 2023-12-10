@@ -5,8 +5,8 @@ Program to sort the cars in the Garage and showcase it
 - Declare Enum: completed
 - Add cars: completed
 - Displays cars: completed
-- find car: not started
-- delete car: not started
+- find car: completed
+- delete car: completed
 
 
 ## JSON INFORMATION
